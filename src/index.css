@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Courier New", Courier, monospace;
-  background: #007093
+  /* font-family: "Metallophile", "Trebuchet MS", Helvetica, sans-serif; */
+  background: linear-gradient(89deg, #007093 0%, #004258 100%);
 }
 
 /* button {
